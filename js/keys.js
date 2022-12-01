@@ -1,0 +1,2 @@
+const mapboxkey = 'pk.eyJ1IjoiZGFuaWVsbGV2bWFzdGVycyIsImEiOiJjbGIycHduM2gwNnVnM3VvMGo1ODVnYWd6In0.lCq9jd-YMoR4Ueedlj2TIA';
+const openweatherkey = "ba637c63c76fdd2396e2fed69fa67d68";
