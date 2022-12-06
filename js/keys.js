@@ -1,5 +1,2 @@
 const mapboxkey = 'pk.eyJ1IjoiZGFuaWVsbGV2bWFzdGVycyIsImEiOiJjbGIycHduM2gwNnVnM3VvMGo1ODVnYWd6In0.lCq9jd-YMoR4Ueedlj2TIA';
 const openweatherkey = "ba637c63c76fdd2396e2fed69fa67d68";
-
-const MAPBOX_KEY = 'pk.eyJ1IjoiZGFuaWVsbGV2bWFzdGVycyIsImEiOiJjbGI1Z2JtZDMwMzZpM3BxczFyMXpjdDN4In0.ClyAAGSu8H9Om8D62hXAAg';
-const OPEN_WEATHER_APPID = "ba637c63c76fdd2396e2fed69fa67d68";

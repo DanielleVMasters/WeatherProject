@@ -1,0 +1,42 @@
+#map {
+    width: 100%;
+    height: 500px;
+}
+
+#weather {
+    width: 100%;
+}
+
+dl {
+    margin: 1em;
+}
+
+dt {
+    text-align: center;
+}
+
+#temp {
+    text-align: center;
+}
+
+#weather {
+    text-align: center;
+    font-weight: bolder;
+}
+
+.align {
+    text-align: start;
+}
+.coordinates {
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    position: absolute;
+    bottom: 40px;
+    left: 10px;
+    padding: 5px 10px;
+    margin: 0;
+    font-size: 11px;
+    line-height: 18px;
+    border-radius: 3px;
+    display: none;
+}
